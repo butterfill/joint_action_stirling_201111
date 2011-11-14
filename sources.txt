@@ -1,0 +1,5 @@
+based on:
+
+CUNY (Oct 2011) minimal talk (based on warwick minimal talk)
+Heidelberg (June 2011) joint+minimal talk (based on a Nijmegen talk)
+Paris (Nov 2011) joint action talk

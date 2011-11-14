@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: stirling HANDOUT.2.aux
+The style file: newapa.bst
+Database file #1: $HOME/endnote/phd_biblio.bib
+`author' is a missing field, not a string, for entry Astington2005ot
+while executing---line 1385 of file newapa.bst
+You've used 25 entries,
+            2708 wiz_defined-function locations,
+            760 strings with 9025 characters,
+and the built_in function-call counts, 11694 in all, are:
+= -- 1052
+> -- 511
+< -- 13
++ -- 189
+- -- 185
+* -- 1192
+:= -- 2218
+add.period$ -- 76
+call.type$ -- 25
+change.case$ -- 210
+chr.to.int$ -- 25
+cite$ -- 25
+duplicate$ -- 398
+empty$ -- 781
+format.name$ -- 230
+if$ -- 2140
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 128
+num.names$ -- 103
+pop$ -- 129
+preamble$ -- 1
+purify$ -- 236
+quote$ -- 0
+skip$ -- 266
+stack$ -- 0
+substring$ -- 865
+swap$ -- 93
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 148
+warning$ -- 0
+while$ -- 101
+width$ -- 0
+write$ -- 328
+(There was 1 error message)
